@@ -194,7 +194,7 @@ copyright = "Belson Education &copy; 2020 | Company Number: 12380841"
 
 
 ################################### French language #####################################
-[Languages.fr]
+[Languages.cn]
 languageName = "CN"
 languageCode = "cn-cn"
 contentDir = "content/chinese"
