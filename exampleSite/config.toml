@@ -190,15 +190,15 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Belson Education &copy; 2020 | Company Number: 12380841"
 
 
 ################################### French language #####################################
 [Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+languageName = "CN"
+languageCode = "cn-cn"
+contentDir = "content/chinese"
 weight = 2
 home = "Accueil"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Belson Education &copy; 2020 | Company Number: 12380841"
