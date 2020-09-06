@@ -11,7 +11,7 @@ contentDir = "content/chinese"
 copyright = "Belson Education &copy; 2020 | Company Number: 12380841"
 home = "Accueil"
 languageCode = "cn-cn"
-languageName = "CN"
+languageName = "中文"
 weight = 2
 
 [Languages.en]
@@ -19,7 +19,7 @@ contentDir = "content/english"
 copyright = "Belson Education &copy; 2020 | Company Number: 12380841"
 home = "Home"
 languageCode = "en-us"
-languageName = "En"
+languageName = "en"
 weight = 1
 
 [[menu.footer]]
